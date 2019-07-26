@@ -5,7 +5,7 @@ WINDOWS
 putty
 Xming
 Winscp
-nRemoteNG
+nRemoteNG |  MobaXterm
 
 7-zip
 git bash
