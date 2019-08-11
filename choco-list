@@ -1,0 +1,7 @@
+# packake list @ https://chocolatey.org/packages
+choco mobaxterm -y
+choco install googlechrome -y
+choco install firefox -y
+ choco install 7zip.install -y
+ choco install putty.install -y
+ choco install vscode -y
