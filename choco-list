@@ -7,3 +7,4 @@ choco install firefox -y
  choco install vscode -y
  choco install digikam -y
  choco install mousewithoutborders -y
+ choco install openvpn
